@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christianhmoore.org/sitemap.xml
