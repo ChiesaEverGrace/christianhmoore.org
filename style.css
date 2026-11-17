@@ -27,6 +27,7 @@ h1,h2,h3{font-family:var(--display);font-weight:400;line-height:1.15;text-wrap:b
 .page-head{padding:56px 0 8px}.page-head h1{font-size:clamp(32px,6vw,48px);margin:0}
 .meta{font-family:var(--sans);font-size:14px;color:var(--muted);margin:10px 0 0}
 .post{padding:8px 0 40px}.post figure{margin:24px 0;text-align:center}.post img{border-radius:6px}
+.refs{font-family:var(--sans);font-size:14px;color:var(--muted);border-top:1px solid var(--rule);padding-top:12px;margin-top:28px}.place{font-family:var(--sans);font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}.it{margin-top:32px;border-top:1px solid var(--rule);padding-top:16px}.it summary{cursor:pointer;font-family:var(--sans);font-size:15px;color:var(--accent)}.post h3{font-size:24px;margin:32px 0 8px}.tag{font-family:var(--sans);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-left:8px}
 .post blockquote{margin:24px 0;padding:4px 0 4px 20px;border-left:3px solid var(--accent);color:var(--muted)}
 .pn{display:grid;gap:12px;grid-template-columns:1fr 1fr;padding:28px 0 56px;border-top:1px solid var(--rule);font-family:var(--sans);font-size:14px}
 .pn a{text-decoration:none;color:var(--ink);background:var(--panel);border-radius:10px;padding:14px 16px}.pn a span{display:block;color:var(--muted);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
