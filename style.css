@@ -40,3 +40,5 @@ h1,h2,h3{font-family:var(--display);font-weight:400;line-height:1.15;text-wrap:b
 .years{display:flex;flex-wrap:wrap;gap:8px;font-family:var(--sans);font-size:14px;margin:8px 0 0}.years a{border:1px solid var(--rule);border-radius:999px;padding:5px 14px;text-decoration:none;color:var(--ink)}
 footer{background:var(--panel);border-top:1px solid var(--rule);font-family:var(--sans);font-size:14px;color:var(--muted)}
 .foot{max-width:960px;margin:0 auto;padding:36px 22px;display:flex;flex-wrap:wrap;gap:12px 28px;justify-content:space-between}footer a{color:var(--muted)}
+
+.ai-note{flex-basis:100%;margin:4px 0 0;font-size:12.5px;line-height:1.5;color:var(--muted)}
